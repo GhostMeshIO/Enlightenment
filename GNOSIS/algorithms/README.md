@@ -1,0 +1,1 @@
+n mathematics and computer science, an algorithm (/ˈælɡərɪðəm/ ⓘ) is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms … Wikipedia
